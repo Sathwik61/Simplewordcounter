@@ -1,3 +1,7 @@
+# Word counter
+
+Word counter is a web app gives live count of words and it will convert lowercase letter to upper case letter and having a reset button to reset the previously added texts.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
